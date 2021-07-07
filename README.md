@@ -1,16 +1,5 @@
----
-marp: true
----
-
 # Deep Learing Side Project
 
-## mod group one
-
-- Yoon Sangseok
-- Kim Hyunji
-- Jeong Bongki
-
----
 
 ## **국가 청원 글 학습 모델**
 
